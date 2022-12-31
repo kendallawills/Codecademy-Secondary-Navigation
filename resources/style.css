@@ -25,3 +25,77 @@ h1 {
     margin: 0;
     padding-top: 20px;
 }
+
+/* HOTELS */
+
+h2 {
+    font-family: "Catamaran", sans-serif;
+    color: #ffffff;
+    text-align: left;
+    margin: 0;
+}
+
+h3 {
+    font-family: "Ruda", sans-serif;
+    font-size: 32px;
+    color: #d7263d;
+    text-align: left;
+    text-transform: uppercase;
+    position: relative;
+    margin: 0;
+}
+
+p {
+    font-family: "Pontano Sans", sans-serif;
+    color: rgba(255, 255, 255, 0.75);
+    text-align: left;
+    margin: 0;
+}
+
+.hotel {
+    width: 90%;
+    border: 1px solid #ffffff;
+    margin: 60px auto;
+    padding: 10px 0 0 0;
+}
+
+.hotel-image {
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.hotel-description {
+    width: 70%;
+    display: inline-block;
+}
+
+.book {
+    width: 100%;
+    margin-top: 30px;
+}
+
+a {
+    font-family: "Pontano Sans", sans-serif;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #d7263d;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: block;
+    padding: 14px;
+}
+
+ul {
+    margin: 10px 0;
+    padding: 0;
+}
+
+li {
+    list-style: none;
+    margin: 0;
+}
+
+.breadcrumb a {
+    background-color: inherit;
+}
