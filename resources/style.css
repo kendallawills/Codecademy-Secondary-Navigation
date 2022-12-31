@@ -1,0 +1,27 @@
+/* UNIVERSAL */
+
+body {
+    background-color: #1e1e24;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+/* JUMBOTRON */
+
+.jumbotron {
+    height: 200px;
+    background-image: url("https://images.unsplash.com/photo-1444882158336-bcfbd9298309?dpr=1&auto=format&crop=entropy&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb");
+    background-position: bottom center;
+}
+
+h1 {
+    font-family: "Ruda", sans-serif;
+    font-size: 70px;
+    font-weight: 900;
+    color: #ffffff;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+    padding-top: 20px;
+}
